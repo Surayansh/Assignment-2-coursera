@@ -1,3 +1,3 @@
 # coursera-test
 Coursera test repository
-Surayansh.github.io
+https://Surayansh.github.io
