@@ -1,3 +1,3 @@
 # coursera-test
-Coursera test repository
-https://Surayansh.github.io
+Click to visit the site
+http://surayansh.me/Assignment-2-coursera/
